@@ -12,7 +12,7 @@
 
 ## About me
 
-I am Vijaylaxmi, working as a data scientist at Stellantis.
+I am Vijaylaxmi, working as a senior data scientist.
 
 - 👯 Have a good idea or research quest? Connect with me - Let's Collaborate 
 - 🥅 Goal: Learn new concept at the end of every single month! 📖
